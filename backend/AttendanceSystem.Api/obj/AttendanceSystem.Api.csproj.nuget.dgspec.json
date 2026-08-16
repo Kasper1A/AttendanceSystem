@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\attendancesystem.api\\AttendanceSystem.Api.csproj": {}
+    "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\AttendanceSystem.Api\\AttendanceSystem.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\attendancesystem.api\\AttendanceSystem.Api.csproj": {
+    "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\AttendanceSystem.Api\\AttendanceSystem.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\attendancesystem.api\\AttendanceSystem.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\AttendanceSystem.Api\\AttendanceSystem.Api.csproj",
         "projectName": "AttendanceSystem.Api",
-        "projectPath": "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\attendancesystem.api\\AttendanceSystem.Api.csproj",
+        "projectPath": "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\AttendanceSystem.Api\\AttendanceSystem.Api.csproj",
         "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\attendancesystem.api\\obj\\",
+        "outputPath": "C:\\Users\\Lukas\\desktop\\AttendanceSystem\\backend\\AttendanceSystem.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
