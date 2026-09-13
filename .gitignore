@@ -1,0 +1,22 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+
+# Visual Studio / VS Code
+*.user
+*.suo
+
+# Node / React
+**/node_modules/
+**/dist/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables
+.env
+.env.*
+!.env.example
